@@ -1,0 +1,2 @@
+- Linear algebra is the study of linear maps on finite-dimensional vector spaces.
+- $\mathbb{R}^n$ is  set of all ordered pairs of real numbers.

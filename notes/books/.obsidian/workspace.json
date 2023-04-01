@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b42ffbf31fe40295",
+        "id": "35b99274f55d47d7",
         "type": "tabs",
         "children": [
           {
-            "id": "fe2d90b91ae28740",
+            "id": "e462a512a6a851d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "All of Statistics/Probability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "588200b032175966",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Algebra Done Right/Vector Spaces.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea80b8fb2136afe4",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
+                "file": "Linear Algebra Done Right/Vector Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md.md",
+                "file": "Linear Algebra Done Right/Vector Spaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md.md"
+                "file": "Linear Algebra Done Right/Vector Spaces.md"
               }
             }
           }
@@ -146,9 +160,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "79478dc591c6de46",
+  "active": "588200b032175966",
   "lastOpenFiles": [
-    "notes/books/ReinforcementLearning.AnIntroduction.md",
-    "README.md.md"
+    "All of Statistics/Probability.md",
+    "Linear Algebra Done Right/Vector Spaces.md",
+    "All of Statistics/Probability",
+    "All of Statistics",
+    "Deep Learning/Chapter 1 - Introduction.md",
+    "Mathematics for Machine Learning/Part 2/When Models Meet Data.md",
+    "Mathematics for Machine Learning/Part 2/Untitled",
+    "Mathematics for Machine Learning/Part 2",
+    "Mathematics for Machine Learning/Part 1",
+    "Mathematics for Machine Learning",
+    "README.md.md",
+    "notes/books/ReinforcementLearning.AnIntroduction.md"
   ]
 }
